@@ -1,0 +1,24 @@
+{
+  "name": "nike-wordle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manank95/wordle.git"
+  },
+  "author": "Manank Valand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manank95/wordle/issues"
+  },
+  "homepage": "https://github.com/Manank95/wordle#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "prompts": "^2.4.2"
+  }
+}
